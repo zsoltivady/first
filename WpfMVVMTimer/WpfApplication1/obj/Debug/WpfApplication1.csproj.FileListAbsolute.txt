@@ -26,3 +26,4 @@ C:\Users\EKE\Documents\GitHub\first\WpfMVVMTimer\WpfApplication1\obj\Debug\MainW
 C:\Users\EKE\Documents\GitHub\first\WpfMVVMTimer\WpfApplication1\obj\Debug\WpfApplication1.g.resources
 C:\Users\EKE\Documents\GitHub\first\WpfMVVMTimer\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
 C:\Users\EKE\Documents\GitHub\first\WpfMVVMTimer\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\EKE\Documents\GitHub\first\WpfMVVMTimer\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs

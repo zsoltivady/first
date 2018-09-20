@@ -5,7 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApplication1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="350" Width="525"
+        >
+    <Window.DataContext>
+        <local:TimerViewModel/>
+    </Window.DataContext>
     <Grid>
         <TextBlock Text="{Binding Time}"></TextBlock>
     </Grid>

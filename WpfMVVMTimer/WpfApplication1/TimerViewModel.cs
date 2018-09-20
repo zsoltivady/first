@@ -18,7 +18,7 @@ namespace WpfApplication1
 
         public void timer_Tick(object sender, EventArgs e)
         {
-            if (PropertyChanged != null) // Point 2
+            if (PropertyChanged != null)
             {
                 PropertyChanged(this, new PropertyChangedEventArgs("Time"));
 

@@ -23,10 +23,8 @@ namespace WpfApplication1
         public MainWindow()
         {
             InitializeComponent();
-
-            var model = new TimerViewModel();
-            DataContext = model;
-
+            //var model = new TimerViewModel();
+            //DataContext = model;
         }
 
     }
